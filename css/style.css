@@ -54,7 +54,7 @@ a {
 }
 
 .txt-orange {
-	color: #F4B1BA;
+	color: #FF66C4;
 }
 
 .display-1 {
@@ -75,14 +75,14 @@ a {
 }
 
 .btn-dark {
-	background: #f9acb6;
-	border: 1px solid #F4B1BA;
+	background: #FFF159;
+	border: 1px solid #0c0c0c;
 	color: #fff;
 	
 }
 
 .btn-dark:hover {
-	background: #f77d8d;
+	background: #efe465;
 	color: #fff;
 }
 
@@ -105,12 +105,6 @@ form .form-control {
 	background: #fff;
 	border: 1px solid #ced4da;
 	border-radius: 4px;
-}
-
-/* Mainheader */
-#mainheader {
-	background: radial-gradient(at 10% 10px, #F4B1BA, #Fff, #fff);
-
 }
 
 /* Navbar */
